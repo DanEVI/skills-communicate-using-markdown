@@ -1,5 +1,7 @@
-# This is an `<h1>` header, which is the largest
+# This text is a title `<h1>`
 
-## This is an `<h2>` header
+## This is a subtitle `<h2>`
 
-###### This is an `<h6>` header, which is the smallest
+###### This is a normal text `<h6>`
+
+![Image of Musashi Miyamoto] (https://isragarcia.es/wp-content/uploads/2020/11/0xlbkcvdawx41.jpg)
