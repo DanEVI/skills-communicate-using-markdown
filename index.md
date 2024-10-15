@@ -14,3 +14,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` java
 final String myVar = "Hello, world!"
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
